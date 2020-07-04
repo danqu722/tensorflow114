@@ -1,0 +1,10 @@
+configparser==3.8.1
+Flask==0.12.2
+Keras==2.2.4
+numpy==1.16.4
+pandas==0.25.1
+scikit-learn==0.19.1
+tensorflow==1.13.0
+tensorflow is 1.12.0
+tensorflow is 1.14.0
+tensorflow==1.14.0
