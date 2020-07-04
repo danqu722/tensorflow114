@@ -1,0 +1,7 @@
+configparser is 3.8.1
+Flask is 0.12.2
+Keras is 2.2.4
+numpy is 1.16.4
+pandas is 0.25.1
+scikit-learn is 0.19.1
+tensorflow is 1.14.0
